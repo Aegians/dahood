@@ -20,7 +20,7 @@
  \___||_| |_||_|   |_||___/ \__||_| \__,_||_| |_|
                                           
 -- Moongod Modfified (Switched out metatables / airshot and Sorted things out optimzing it)
--- Was this fully made by Christians? fuck yes bro
+-- Was this fully made by Christians? no i did a lil skidding, (i <3 moongod)
 
 ]]
 
